@@ -1,4 +1,4 @@
-# 🚀 Mi Camino de Aprendizaje en C++ (C++ Learning Journey)
+# 🚀 Mi Camino de Aprendizaje en C++
 
 ![C++ Badge](https://img.shields.io/badge/Language-C++-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Active_Learning-green.svg)
